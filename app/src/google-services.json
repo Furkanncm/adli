@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "885004639644",
+    "project_id": "adlibilisim-58065",
+    "storage_bucket": "adlibilisim-58065.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885004639644:android:242b6740d75dc469783c59",
+        "android_client_info": {
+          "package_name": "com.luci.adli"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVLyfFEFSKo3F_iKs0x0rGTc5ZWoHStPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
